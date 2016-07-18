@@ -1,4 +1,4 @@
-package basic.udacity.sunshine;
+package udacity.basic.sunshine;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

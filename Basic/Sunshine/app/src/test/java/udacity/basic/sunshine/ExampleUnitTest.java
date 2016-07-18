@@ -1,4 +1,4 @@
-package basic.udacity.sunshine;
+package udacity.basic.sunshine;
 
 import org.junit.Test;
 
